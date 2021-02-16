@@ -19,6 +19,8 @@ Projects:
  Setting up your first AWS environment
  Setting up projects in GitHub
  Setting up your first GitHub Action
+
+
 Week 2: Scripting Like a Developer
 February 17th
 
