@@ -9,9 +9,9 @@ February 10th
 
 For this first week, Michael Levan gives us an introduction to DevOps, what it is, its role and importance for the business.
 
-In the lecture, Michael mentions 3 books that are a must read: The Phoenix Project, The DevOps Handbook, and Accelerate. My plan is to write summaries of these 3 books, and post them under the Books folder.
+In the lecture, Michael mentions 3 books that are a must read: The Phoenix Project, The DevOps Handbook, and Accelerate. 
 
-My notes
+
 Projects:
 
  Getting started with GitHub
